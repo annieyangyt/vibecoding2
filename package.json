@@ -1,0 +1,22 @@
+{
+  "name": "zhege-b-ban-yao-shang-ma",
+  "version": "1.0.0",
+  "description": "这个b班要上吗？- 工作机会评估工具",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "start": "vite preview --port 8888"
+  },
+  "keywords": [
+    "工作评估",
+    "求职",
+    "工作机会"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
